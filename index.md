@@ -1,6 +1,12 @@
-## Welcome to GitHub Pages
+### Bem-vindxs ao meu portfólio :D
 
-You can use the [editor on GitHub](https://github.com/marylange/portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Marylange Leal
+
+Em transição de carreira para área de desenvolvimento de sistemas. Cursando Análise e desenvolvimento de sitemas no Centro Universitário Una.
+
+### Sobre mim
+
+Cursando análise e desenvolvimento de sistemas, estou estudando e praticando a linguagem Csharp e React.js. Participei do XP 23 do Gama Academy, durante cinco semanas tive a oportunidade de atuar como desenvolvedora front-end, realizando desafios semanais com equipes multiprofissionais. Participei da construção de um site, fiz a View de um aplicativo utilizando HTML e CSS, participei da elaboração de um site utilizando Wordpress, entre outros projetos. Comecei a cursar de inglês no CAAP idiomas da UFMG em agosto. [editor on GitHub](https://github.com/marylange/portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
