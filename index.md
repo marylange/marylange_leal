@@ -1,10 +1,12 @@
-### Bem-vindxs ao meu portfólio :D
+# Bem-vindxs ao meu portfólio :D
 
-### Marylange Leal
+
+
+## Marylange Leal
 
 Em transição de carreira para área de desenvolvimento de sistemas. Cursando Análise e desenvolvimento de sitemas no Centro Universitário Una.
 
-### Sobre mim
+## Sobre mim
 
 [Currículo](https://drive.google.com/open?id=1VkCpCRC4dX18cCbztf3SnVA4GMGmtnmJzFPQT64SnAQ)
 
@@ -12,7 +14,26 @@ Meu nome é Marylange, tenho 31 anos e sou de Fortaleza - CE. Estou cursando an�
 
 Estou estudando e praticando a linguagem Csharp, JavaScript através das atividades do Free Code Camp e estou cursando desenvolvimento iOS com a linguagem Swift. Participei do XP 23 do Gama Academy, durante cinco semanas tive a oportunidade de atuar como desenvolvedora front-end, realizando desafios semanais com equipes multiprofissionais. Participei da construção do site [Cafeteria Tech](https://www.cafeteriatech.com.br), contribui na elaboração da view do aplicativo [SimplePay](https://github.com/marylange/symplepay) utilizando HTML e CSS, Contribui na elaboração do site da [Casa de Apoio Porto Esperança](https://casaportoesperanca.com.br) utilizando Wordpress, entre outros projetos. Estou cursando o 1º semestre de inglês no CAAP idiomas da UFMG.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Formação
+
+### Análise e Desenvolvimento de Sistemas
+Centro Universitário Una - Cursando o 2º período(noite).
+
+### Enfermagem
+Universidade de Fortaleza - Concluido em Julho de 2016.
+
+## Informações adicinais
+
+- Cursando desenvolvimento iOS - UNICAMP
+- Estudando desenvolvimento de sistemas linguagem C#
+- Curso de Inglês - 1º semestre
+- Mentoria em desenvolvimento de software - Laís Gome(ThoughtWorks)
+- Formação em desenvolvimento Front-End - Gama Academy
+- Lógica de programação com JavaScript - EuFaria
+- Lógica de programação I e II - Alura Cursos Online
+
+### JavaScript
+
 
 ### Markdown
 
