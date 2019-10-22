@@ -16,13 +16,13 @@ Estou estudando e praticando a linguagem Csharp, JavaScript através das ativida
 
 ## Formação
 
-### Análise e Desenvolvimento de Sistemas
+**Análise e Desenvolvimento de Sistemas**
 Centro Universitário Una - Cursando o 2º período(noite).
 
-### Enfermagem
+**Enfermagem**
 Universidade de Fortaleza - Concluido em Julho de 2016.
 
-## Informações adicinais
+**Informações adicinais**
 
 - Cursando desenvolvimento iOS - UNICAMP
 - Estudando desenvolvimento de sistemas linguagem C#
@@ -32,8 +32,19 @@ Universidade de Fortaleza - Concluido em Julho de 2016.
 - Lógica de programação com JavaScript - EuFaria
 - Lógica de programação I e II - Alura Cursos Online
 
-### JavaScript
+## Projetos
 
+- **JavaScript**
+[Count Cards](https://github.com/marylange/freeCodeCamp)
+- **C#**
+[]()
+- **Swift**
+[]()
+- **Lógica programação**
+[Tabuada](https://github.com/marylange/Logica-Alura/blob/master/tabuada2.html), [Jogo de advinhação](https://github.com/marylange/Logica-Alura/blob/master/adivinha_mais.html), [Somando idades](https://github.com/marylange/Logica-Alura/blob/master/acumulando_valores_media_idadeFamiliares.html), [Login e senha](https://github.com/marylange/Logica-Alura/blob/master/loginSenha.html), [Cálculo IMC](https://github.com/marylange/Logica-Alura/blob/master/calculando_imc.html), [Outros](https://github.com/marylange/Logica-Alura)
+
+- **Projetos da faculdade**
+[Site de loja](https://github.com/marylange/Projetos-da-faculdade/tree/master/site%20loja%20bootstrap), [Ocultar elementos](https://github.com/marylange/Projetos-da-faculdade/tree/master/teste%20ocultar%20elementos), [Marcar texto de amarelo](https://github.com/marylange/Projetos-da-faculdade/tree/master/teste%20marcar%20texto)
 
 ### Markdown
 
