@@ -6,7 +6,7 @@ Em transição de carreira para área de desenvolvimento de sistemas. Cursando A
 
 ### Sobre mim
 
-[Link](url) and ![Image](src)
+[Currículo](https://drive.google.com/open?id=1VkCpCRC4dX18cCbztf3SnVA4GMGmtnmJzFPQT64SnAQ)
 
 Cursando análise e desenvolvimento de sistemas, estou estudando e praticando a linguagem Csharp e React.js. Participei do XP 23 do Gama Academy, durante cinco semanas tive a oportunidade de atuar como desenvolvedora front-end, realizando desafios semanais com equipes multiprofissionais. Participei da construção de um site, fiz a View de um aplicativo utilizando HTML e CSS, participei da elaboração de um site utilizando Wordpress, entre outros projetos. Comecei a cursar de inglês no CAAP idiomas da UFMG em agosto. [editor on GitHub](https://github.com/marylange/portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
