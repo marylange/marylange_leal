@@ -1,14 +1,12 @@
 ### Bem-vindxs ao meu portfólio :D
-<html>
-  <nav>
-    <p>Portfólio</p>
-  </nav>
 
 ### Marylange Leal
 
 Em transição de carreira para área de desenvolvimento de sistemas. Cursando Análise e desenvolvimento de sitemas no Centro Universitário Una.
 
 ### Sobre mim
+
+[Link](url) and ![Image](src)
 
 Cursando análise e desenvolvimento de sistemas, estou estudando e praticando a linguagem Csharp e React.js. Participei do XP 23 do Gama Academy, durante cinco semanas tive a oportunidade de atuar como desenvolvedora front-end, realizando desafios semanais com equipes multiprofissionais. Participei da construção de um site, fiz a View de um aplicativo utilizando HTML e CSS, participei da elaboração de um site utilizando Wordpress, entre outros projetos. Comecei a cursar de inglês no CAAP idiomas da UFMG em agosto. [editor on GitHub](https://github.com/marylange/portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -45,4 +43,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-</html>
