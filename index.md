@@ -124,4 +124,7 @@ odontológicos na CME; Orientar atividades de higiene bucal; Agendar e confirmar
 ![Linkedin](linkedin.png)    https://www.linkedin.com/in/maryssleal/
 
 ![Twitter](twitter.png)      https://twitter.com/Maryssleal
+
+![Gmail](gmail.png)          marylangess@gmail.com
+
  
