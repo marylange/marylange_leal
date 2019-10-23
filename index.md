@@ -115,10 +115,8 @@ Atividades: Classificação de risco do pacientes; Checagem dos materiais para o
   
   setembro de 2006 a fevereiro de 2013
 
-Atividades: Instrumentar os profissionais dentistas nas intervenções clínicas e
-cirúrgicas; Realizar limpeza, desinfecção e esterilização de instrumentais, equipamentos
-odontológicos na CME; Orientar atividades de higiene bucal; Agendar e confirmar consultas; Realizar acolhimento dos pacientes no serviço de saúde bucal; Desenvolver relatórios semanais.
-
+Atividades: Auxiliar os profissionais dentistas nas intervenções clínicas e cirúrgicas; Realizar limpeza, desinfecção e esterilização de instrumentais, equipamentos odontológicos na CME; Orientar atividades de higiene bucal; Agendar e confirmar consultas; Realizar acolhimento dos pacientes no serviço de saúde bucal; Desenvolver relatórios semanais.
+  
 
 ## Redes Sociais
 
