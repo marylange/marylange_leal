@@ -115,4 +115,4 @@ odontológicos na CME; Orientar atividades de higiene bucal; Agendar e confirmar
 
 ## Redes Sociais
 
-![Instagram](instagram) https://www.instagram.com/marylangess/
+![Instagram](instagram.jpg) https://www.instagram.com/marylangess/
