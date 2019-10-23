@@ -38,8 +38,6 @@ Universidade de Fortaleza - Concluido em Julho de 2016.
 [Count Cards](https://github.com/marylange/freeCodeCamp)
 - **C#**
 []()
-- **Swift**
-[]()
 - **Lógica programação**
 [Tabuada](https://github.com/marylange/Logica-Alura/blob/master/tabuada2.html), [Jogo de advinhação](https://github.com/marylange/Logica-Alura/blob/master/adivinha_mais.html), [Somando idades](https://github.com/marylange/Logica-Alura/blob/master/acumulando_valores_media_idadeFamiliares.html), [Login e senha](https://github.com/marylange/Logica-Alura/blob/master/loginSenha.html), [Cálculo IMC](https://github.com/marylange/Logica-Alura/blob/master/calculando_imc.html), [Outros](https://github.com/marylange/Logica-Alura), [Algorítmo segundo grau](https://github.com/marylange/Logica-programacao/blob/master/testeAlgoritmos.html)
 - **HTML e CSS**
@@ -83,12 +81,34 @@ Universidade de Fortaleza - Concluido em Julho de 2016.
   Console.ReadKey();
 ```
 
-Projeto CAFETERIA TECH [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Projetos Gama Academy
 
-### Jekyll Themes
+- Site [Cafeteria Tech](https://www.cafeteriatech.com.br)
+- Aplicativo [Symple Pay](https://github.com/marylange/symplepay)
+- Site da [Casa de Apoio Porto Esperança](https://casaportoesperanca.com.br)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marylange/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Experiência Profissional
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Contax S/A - Atendente de Telemarketing**
+
+  agosto de 2014 a março de 2016
+  
+ Atividades: Atendimento ao cliente externo; Fornecimento de informações, resolução de queixas e reclamações; Disponibilização de serviços e produtos; Efetuação de vendas, captação, retenção e recuperação de clientes.
+ 
+ 
+**Hospital Otoclínica - Estagiária de Enfermagem**
+
+  janeiro de 2013 a fevereiro de 2014
+  
+Atividades: Classificação de risco do pacientes; Checagem dos materiais para o plantão; Atendimento ambulatorial realizando retirada de suturas, fazendo curativos e administrando medicamentos intramuscular; Administração de medicamentos receitados pelos médicos da emergência; Apresentação de casos clínicos com base em pacientes internos; Administração de vacinas para os clientes internos; Corrida de leitos para verificar os procedimentos a serem realizados no dia.
+
+
+**SECVGAF - Auxiliar de consultório odontológico**
+  
+  setembro de 2006 a fevereiro de 2013
+
+Atividades: Instrumentar os profissionais dentistas nas intervenções clínicas e
+cirúrgicas; Realizar limpeza, desinfecção e esterilização de instrumentais, equipamentos
+odontológicos na CME; Orientar atividades de higiene bucal; Agendar e confirmar consultas; Realizar acolhimento dos pacientes no serviço de saúde bucal; Desenvolver relatórios semanais.
+
