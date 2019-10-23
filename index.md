@@ -1,6 +1,6 @@
 # Bem-vindxs ao meu portfólio :D
 
-![Minha foto](foto2.jpg)
+![Minha foto](foto2.png)
 
 ## Marylange Leal
 
