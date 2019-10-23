@@ -24,7 +24,7 @@ Universidade de Fortaleza - Concluido em Julho de 2016.
 
 **Informações adicinais**
 
-- Cursando desenvolvimento iOS - UNICAMP
+- Cursando desenvolvimento iOS com Swift - UNICAMP
 - Estudando desenvolvimento de sistemas linguagem C#
 - Curso de Inglês - 1º semestre
 - Mentoria em desenvolvimento de software - Laís Gome(ThoughtWorks)
