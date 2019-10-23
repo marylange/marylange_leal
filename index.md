@@ -1,12 +1,12 @@
 # Bem-vindxs ao meu portfólio :D
 
-
+![Minha foto](marylange.jpg)
 
 ## Marylange Leal
 
 Em transição de carreira para área de desenvolvimento de sistemas. Cursando Análise e desenvolvimento de sitemas no Centro Universitário Una.
 
-## Sobre mim
+## Sobre Mim
 
 [Currículo](https://drive.google.com/open?id=1VkCpCRC4dX18cCbztf3SnVA4GMGmtnmJzFPQT64SnAQ)
 
@@ -22,7 +22,7 @@ Centro Universitário Una - Cursando o 2º período(noite).
 **Enfermagem**
 Universidade de Fortaleza - Concluido em Julho de 2016.
 
-**Informações adicinais**
+**Informações Adicinais**
 
 - Cursando desenvolvimento iOS com Swift - UNICAMP
 - Estudando desenvolvimento de sistemas linguagem C#
@@ -38,12 +38,12 @@ Universidade de Fortaleza - Concluido em Julho de 2016.
 [Count Cards](https://github.com/marylange/freeCodeCamp)
 - **C#**
 []()
-- **Lógica programação**
+- **Lógica Programação**
 [Tabuada](https://github.com/marylange/Logica-Alura/blob/master/tabuada2.html), [Jogo de advinhação](https://github.com/marylange/Logica-Alura/blob/master/adivinha_mais.html), [Somando idades](https://github.com/marylange/Logica-Alura/blob/master/acumulando_valores_media_idadeFamiliares.html), [Login e senha](https://github.com/marylange/Logica-Alura/blob/master/loginSenha.html), [Cálculo IMC](https://github.com/marylange/Logica-Alura/blob/master/calculando_imc.html), [Outros](https://github.com/marylange/Logica-Alura), [Algorítmo segundo grau](https://github.com/marylange/Logica-programacao/blob/master/testeAlgoritmos.html)
 - **HTML e CSS**
 [Symple Pay](https://github.com/marylange/symplepay)
 
-- **Projetos da faculdade**
+- **Projetos da Faculdade**
 [Site de loja](https://github.com/marylange/Projetos-da-faculdade/tree/master/site%20loja%20bootstrap), [Ocultar elementos](https://github.com/marylange/Projetos-da-faculdade/tree/master/teste%20ocultar%20elementos), [Marcar texto de amarelo](https://github.com/marylange/Projetos-da-faculdade/tree/master/teste%20marcar%20texto)
 
 ## Código C#
