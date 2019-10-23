@@ -18,11 +18,8 @@ Estou estudando e praticando a linguagem C#, JavaScript através das atividades 
 
 ## Formação
 
-**Análise e Desenvolvimento de Sistemas**
+#### Análise e Desenvolvimento de Sistemas
 Centro Universitário Una - Cursando o 2º período(noite).
-
-**Enfermagem**
-Universidade de Fortaleza - Concluido em Julho de 2016.
 
 **Informações Adicinais**
 
@@ -33,6 +30,10 @@ Universidade de Fortaleza - Concluido em Julho de 2016.
 - Formação em desenvolvimento Front-End - Gama Academy
 - Lógica de programação com JavaScript - EuFaria
 - Lógica de programação I e II - Alura Cursos Online
+
+### Enfermagem
+Universidade de Fortaleza - Conclusão em Julho de 2016.
+
 
 ## Projetos
 
