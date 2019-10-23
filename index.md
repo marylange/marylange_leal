@@ -12,7 +12,7 @@ Em transição de carreira para área de desenvolvimento de sistemas. Cursando A
 
 Meu nome é Marylange, tenho 31 anos e sou de Fortaleza - CE. Estou cursando análise e desenvolvimento de sistemas pelo centro Universitário Una. Sou formada em Enfermagem, pela Universidade de Fortaleza e pós-graduada em unidade de terapia intensiva pela Faculdade Santa Casa BH. Fui apresentada à área de desenvolvimento de software durante a pós-graduação, a partir disso, pude enxergar um grande potencial de crescimento e oportunidades, por este motivo, resolvi mudar de carreira.
 
-Estou estudando e praticando a linguagem Csharp, JavaScript através das atividades do Free Code Camp e estou cursando desenvolvimento iOS com a linguagem Swift. Participei do XP 23 do Gama Academy, durante cinco semanas tive a oportunidade de atuar como desenvolvedora front-end, realizando desafios semanais com equipes multiprofissionais. Participei da construção do site [Cafeteria Tech](https://www.cafeteriatech.com.br), contribui na elaboração da view do aplicativo [Symple Pay](https://github.com/marylange/symplepay) utilizando HTML e CSS, Contribui na elaboração do site da [Casa de Apoio Porto Esperança](https://casaportoesperanca.com.br) utilizando Wordpress, entre outros projetos. Estou cursando o 1º semestre de inglês no CAAP idiomas da UFMG.
+Estou estudando e praticando a linguagem C#, JavaScript através das atividades do Free Code Camp e estou cursando desenvolvimento iOS com a linguagem Swift. Participei do XP 23 do Gama Academy, durante cinco semanas tive a oportunidade de atuar como desenvolvedora front-end, realizando desafios semanais com equipes multiprofissionais. Participei da construção do site [Cafeteria Tech](https://www.cafeteriatech.com.br), contribui na elaboração do aplicativo [Symple Pay](https://github.com/marylange/symplepay) utilizando HTML e CSS, Contribui na elaboração do site da [Casa de Apoio Porto Esperança](https://casaportoesperanca.com.br) utilizando Wordpress, entre outros projetos. Estou cursando o 1º semestre de inglês no CAAP idiomas da UFMG.
 
 ## Formação
 
@@ -104,11 +104,10 @@ Universidade de Fortaleza - Concluido em Julho de 2016.
 Atividades: Classificação de risco do pacientes; Checagem dos materiais para o plantão; Atendimento ambulatorial realizando retirada de suturas, fazendo curativos e administrando medicamentos intramuscular; Administração de medicamentos receitados pelos médicos da emergência; Apresentação de casos clínicos com base em pacientes internos; Administração de vacinas para os clientes internos; Corrida de leitos para verificar os procedimentos a serem realizados no dia.
 
 
-**SECVGAF - Auxiliar de consultório odontológico**
+**SECVGAF - Auxiliar de Consultório Odontológico**
   
   setembro de 2006 a fevereiro de 2013
 
 Atividades: Instrumentar os profissionais dentistas nas intervenções clínicas e
 cirúrgicas; Realizar limpeza, desinfecção e esterilização de instrumentais, equipamentos
 odontológicos na CME; Orientar atividades de higiene bucal; Agendar e confirmar consultas; Realizar acolhimento dos pacientes no serviço de saúde bucal; Desenvolver relatórios semanais.
-
