@@ -1,12 +1,14 @@
 # Bem-vindxs ao meu portfólio :D
 
+
 ![Minha foto](foto2.png)
+
 
 ## Marylange Leal
 
 Em transição de carreira para área de desenvolvimento de sistemas. Cursando Análise e desenvolvimento de sitemas no Centro Universitário Una.
 
-## Sobre Mim
+## Sobre
 
 [Currículo](https://drive.google.com/open?id=1VkCpCRC4dX18cCbztf3SnVA4GMGmtnmJzFPQT64SnAQ)
 
